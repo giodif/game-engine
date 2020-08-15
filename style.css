@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+.scene{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: #333;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.scene div{
+    width: 1000px;
+    height: 600px;
+}
+#stage{
+    background: black;
+    margin: 0 auto;
+    display: block;
+}
